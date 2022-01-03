@@ -18,10 +18,10 @@ headers{
     'Content-Type': 'application/json'
 },
 body: JSON.stringify({
-					user,
-					name,
-					last_name,
-					email,
-					password,
-				})
+	user,
+	name,
+	last_name,
+	email,
+	password,
+})
 ```
