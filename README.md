@@ -22,6 +22,6 @@ body: JSON.stringify({
 	name,
 	last_name,
 	email,
-	password,
+	passwd,
 })
 ```
